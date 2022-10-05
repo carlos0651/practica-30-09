@@ -22,5 +22,10 @@ namespace practica_30_09.DAL
             return Con;
         } 
 
+        public bool testConnection()
+        {
+            SqlConnection Con = this
+        }
+
     }
 }
